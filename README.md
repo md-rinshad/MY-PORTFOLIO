@@ -51,7 +51,7 @@ Go to Repo → Settings → Pages
 Branch: main (or gh-pages) → / (root) → Save
 
 Your site will be live at:
-https://<md-rinshad>.github.io/<your-repo>/
+https://md-rinshad.github.io/MY-PORTFOLIO/
 
 🛠Customization
 --------------
